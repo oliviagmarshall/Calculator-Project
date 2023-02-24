@@ -1,5 +1,17 @@
-.calculator-container{
-    display:block;
-    margin:0 auto;
-    background-color:aqua
-}
+button {
+    font-size: 30px;
+    padding: 10px 10px;
+  }
+  
+  .container {
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+    max-width: 800px;
+    display: block;
+    font-family: "Share Tech Mono", monospace;
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow: 35px 35px 69px #bebebe, -35px -35px 69px #ffffff;
+    display: block;
+  }
